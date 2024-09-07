@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Eat
+- [x] Wash my hair
+- [ ] Take a nap
